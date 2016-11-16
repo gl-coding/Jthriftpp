@@ -1,0 +1,10 @@
+boolean     bool
+byte        byte
+short       i16
+int         i32
+long        i64
+double      double
+String      string
+interface   service
+class       struct
+;           ,
